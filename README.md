@@ -48,13 +48,12 @@ pip install -r requirements.txt
 ## File Structure
 ```
 framework_assignment/
-├── app.py                  # Main application file
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-├── country_vaccinations.csv/  # Data folder
-│   └── country_vaccinations.csv
-├── myenv/                  # Virtual environment
-└── Untitled11.ipynb        # Jupyter notebook (optional)
+├── app.py                  
+├── requirements.txt       
+├── README.md               
+├── country_vaccinations.csv  
+│   
+├── myenv/                         
 ```
 
 ## License
@@ -62,3 +61,4 @@ This project is licensed under the MIT License.
 
 ## Author
 - Haruna Ademoye
+
