@@ -1,7 +1,7 @@
 # Frameworks Assignment
 
 ## Overview
-This project analyzes COVID-19 vaccination data using Python. It demonstrates data processing and visualization using popular frameworks.
+This project analyzes COVID-19 vaccination data using Python. It demonstrates data processing and visualization using streamlit frameworks.
 
 ## Features
 - Data loading and cleaning
@@ -61,4 +61,5 @@ This project is licensed under the MIT License.
 
 ## Author
 - Haruna Ademoye
+
 
